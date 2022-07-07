@@ -1,5 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import Blogs from './Pages/Blogs/Blogs';
 import CheckOut from './Pages/CheckOut/CheckOut';
 import Home from './Pages/Home/Home';
@@ -28,6 +30,7 @@ function App() {
         <Route path='/signUp' element={<SignUp></SignUp>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      <ToastContainer></ToastContainer>
     </>
   );
 }
