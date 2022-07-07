@@ -1,0 +1,44 @@
+[
+    {
+      "id": "625ba98f357b5ffb9d17bed9",
+      "img": "https://i.ibb.co/rdDRhWq/arabica.png",
+      "name": "Arabica Coffee",
+      "description": "Coffea arabica, also known as the Arabic coffee, is a species of flowering plant in the coffee and madder family Rubiaceae. It is believed to be the first species of coffee to have been cultivated.",
+      "price": 220
+    },
+    {
+      "id": "625ba98f7c939987f1c7291e",
+      "img": "https://i.ibb.co/2gpNcPv/black.png",
+      "name": "Black Coffee",
+      "description": "Black coffee is simply coffee that is normally brewed without the addition of additives such as sugar, milk, cream, or added flavors.Many people love a strong cup of black coffee.",
+      "price": 550
+    },
+    {
+      "id": "625ba98faa6454c191ee67b0",
+      "img": "https://i.ibb.co/NjhPyM2/cappuccino.png",
+      "name": "Cappuccino Coffee",
+      "description": "A cappuccino is an espresso-based coffee drink that originated in Austria with later development taking place in Italy, and is prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milkr.",
+      "price": 200
+    },
+    {
+      "id": "625ba98f03ea66212f7888f6",
+      "img": "https://i.ibb.co/rb8tS5n/decaf.png",
+      "name": "Decaf Coffee",
+      "description": "Decaffeinated coffee is the same as regular coffee, but has a majority of its caffeine removed. As mentioned above, decaf coffee still contains a very small amount of caffeine since 100% of caffeine can never be removed completely.",
+      "price": 100
+    },
+    {
+      "id": "625ba98f07c3304ee1932f14",
+      "img": "https://i.ibb.co/YP4TzG8/latte.png",
+      "name": "Latte Coffee",
+      "description": "Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin made with espresso and steamed milk.It is very much tasty, most of the people like this kind of coffee.",
+      "price": 50
+    },
+    {
+      "id": "625ba98f71ec66e22174e867",
+      "img": "https://i.ibb.co/KqwYZtv/robusta.png",
+      "name": "Robusta Coffee",
+      "description":"Coffea canephora origins in central and western sub-Saharan Africa.Though widely known as Coffea robusta, the plant is scientifically identified as Coffea canephora, which has two main varieties, robusta and nganda.",
+      "price": 1000
+    }
+  ]
