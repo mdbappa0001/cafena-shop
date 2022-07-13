@@ -3,10 +3,10 @@ import { toast, ToastContainer } from 'react-toastify';
 import Footer from '../../Shared/Footer';
 
 const CheckOut = () => {
-    const [name, setName] = useState('')
-    const [email, setEmail] = useState('')
-    const [address, setAddress] = useState('')
-    const [phone, setPhone] = useState('')
+    const [ setName] = useState('')
+    const [ setEmail] = useState('')
+    const [ setAddress] = useState('')
+    const [ setPhone] = useState('')
 
     const orderPlaced = async (e) => {
         e.preventDefault()
